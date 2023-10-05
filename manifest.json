@@ -1,0 +1,13 @@
+[
+    {
+      "name": "Spicetify-Toggle-Autoplay",
+      "description": "Toggle on and off autoplay with a click of a button.",
+      "preview": "icon.png",
+      "main": "autoplay-toggle.js",
+      "readme": "README.md",
+      "authors": [
+          { "name": "Marcell-Puskas", "url": "https://github.com/Marcell-Puskas" }
+      ],
+      "tags": ["autoplay", "toggle"]
+    }
+  ]
