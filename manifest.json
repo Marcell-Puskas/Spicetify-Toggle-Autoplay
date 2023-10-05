@@ -1,6 +1,6 @@
 [
     {
-      "name": "Spicetify-Toggle-Autoplay",
+      "name": "Spicetify Toggle Autoplay",
       "description": "Toggle on and off autoplay with a click of a button.",
       "preview": "icon.png",
       "main": "autoplay-toggle.js",
